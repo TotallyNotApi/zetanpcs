@@ -1,0 +1,10 @@
+name: ZetaNPCs
+author: apigames
+version: 1.0
+main: cz.apigames.zetanpcs.Main
+description: NPC system pro potreby portalu Zeta-Gaming.eu
+depend: [NPCLibPlugin]
+commands:
+  npc:
+    description: Hlavni prikaz
+    usage: /npc <create/remove/skin>
